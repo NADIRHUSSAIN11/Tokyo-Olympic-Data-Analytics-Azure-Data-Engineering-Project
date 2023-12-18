@@ -1,4 +1,4 @@
-# Tokyo-Olympic-Data-Analytics-Azure-Data-Engineering-Project
+# Tokyo Olympic Data Analytics Azure Data Engineering Project
 ## I have completed the Azure Data Engineering Project, a challenging and rewarding project that involved working with real-world data from the Tokyo Olympics 2020. 🎉
 
 ![Screenshot 2023-09-13 112938](https://github.com/NADIRHUSSAIN11/Tokyo-Olympic-Data-Analytics-Azure-Data-Engineering-Project/assets/89727973/2f94da27-46f1-48af-8238-3d7d578be921)
